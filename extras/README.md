@@ -24,7 +24,7 @@ a Cassandra cluster.
 To create a Cassandra cluster the following files have to be downloaded and
 copied to a local folder:
 
-- `Vagrantfile.tpl`
+- `Vagrantfile`
 - `config.rb.sample`
 
 #### Usage

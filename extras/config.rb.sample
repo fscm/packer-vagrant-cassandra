@@ -1,5 +1,5 @@
 # Internal Network CIDR
-$cassandra_network_cidr ||= "172.16.0.16/28"
+$cassandra_network_cidr = "172.16.0.16/28"
 
 # Number of Cassandra servers
 $cassandra_instances_number = 1

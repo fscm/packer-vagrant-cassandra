@@ -65,13 +65,13 @@ you also have to edit the `Vagrantfile.tpl` file and change the value of the
 ## Versioning
 
 This project uses [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this repository](https://github.com/fscm/packer-templates/tags).
+available, see the [tags on this repository](https://github.com/fscm/packer-vagrant-cassandra/tags).
 
 ## Authors
 
 * **Frederico Martins** - [fscm](https://github.com/fscm)
 
-See also the list of [contributors](https://github.com/fscm/packer-templates/contributors)
+See also the list of [contributors](https://github.com/fscm/packer-vagrant-cassandra/contributors)
 who participated in this project.
 
 ## License

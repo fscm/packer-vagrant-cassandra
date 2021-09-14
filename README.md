@@ -1,4 +1,9 @@
+**[DEPRECATED] This repository is no longer maintained**
+> While this project is fully functional, the content is no longer maintained and therefore is no longer up to date. You are still welcome to explore, learn, and use the code provided here.
+
 # Cassandra Box
+
+![No longer maintained](https://img.shields.io/badge/maintenance-OFF-red.svg?&style=flat-square)
 
 Packer templates to build a Vagrant Cassandra box.
 
@@ -77,14 +82,8 @@ More details can be found
 
 ## Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request
-
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how
-to contribute to this project.
+Contributing to this project is no longer possible since the project is no
+longer maintained.
 
 ## Versioning
 
